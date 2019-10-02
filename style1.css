@@ -20,8 +20,8 @@ p{
     height: auto;
 }
 #main-header{
-    background: #333;
-    color: white;
+    background: rgba(0,0,0,0);
+    color: black ;
     height: 80px;
     
 	width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
