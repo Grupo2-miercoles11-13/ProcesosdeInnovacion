@@ -20,14 +20,14 @@ p{
     height: auto;
 }
 #main-header{
-    background: #333;
-    color: white;
+    background: rgba(82, 79, 79, 0);
+    color: black;
     height: 80px;
     
 	width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
 	left: 0; /* Posicionamos la cabecera al lado izquierdo */
 	top: 0; /* Posicionamos la cabecera pegada arriba */
-	position: fixed; /* Hacemos que la cabecera tenga una posición fija */
+	position: absolute; /* Hacemos que la cabecera tenga una posición fija */
 }
 #main-header a{
     color: white;
