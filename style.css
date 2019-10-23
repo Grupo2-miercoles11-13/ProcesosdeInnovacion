@@ -299,3 +299,9 @@ h2{
     width: 60%;
     height: auto;
 }
+.content1{
+    text-align: justify;
+}
+#align{
+    text-align: justify;
+}
