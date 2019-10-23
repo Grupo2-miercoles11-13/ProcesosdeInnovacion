@@ -250,24 +250,24 @@ h2{
     text-align: left;
 }
 #alinear1{
-    text-align: right;
+    text-align:justify;
 }
 #gains{
-    float: left;
-    margin-right:20px;
-    height: 50%;
+    position: relative;
+    margin-right:10%;
+    height: 80%;
     width: auto;
 }
 #pain{
-    float:right;
-    margin right:400px;
-    height: 50%;
+   position:relative;
+    margin right:10%;
+    height: 80%;
     width:auto;
 }
 #work{
-    float: left;
-    margin-right:20px;
-    height: 50%;
+    position:relative;
+    margin-right:10%;
+    height: 80%;
     width: auto;
 }
 #fb{
