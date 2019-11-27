@@ -128,10 +128,10 @@ body {
 	font-family: sans-serif;
 	font-size: 1em;
 	line-height: 1.5em;
-	background-image: url(back.jpg);
+	background-image: url(negro.jpg);
     background-repeat:repeat-y;
-    background-size:contain;
-    background-position:center;
+    background-position: center;
+    background-size:cover;
 	padding-top: 80px; /* Relleno superior igual a la altura de la cabecera*/
 }
 h2{
