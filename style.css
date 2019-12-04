@@ -168,39 +168,57 @@ h2{
 }
 .button{
     position:inherit;
-    background-image:url(a1.jpg);
+    background-image:url(avance1.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 600px;
+    width: 450px;
     height: 400px;
     background-size:cover;
     border-radius: 50px;
     color: white;
     font-size: 2.5em;
 }
+.button:hover{
+    background-color:rgba(239, 239, 239, 0);
+    background-image: url(av1.png);
+    width: 450px;
+    height: 400px;  
+}
 .button2{
     position:inherit;
-    background-image:url(proceso.jpg);
+    background-image:url(avance2.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 600px;
+    width: 450px;
     height: 400px;
     background-size:cover;
     border-radius: 50px;
     color: black;
     font-size: 2.5em;
 }
+.button2:hover{
+    background-color:rgba(239, 239, 239, 0);
+    background-image: url(av2.png);
+    width: 450px;
+    height: 400px;  
+}
 .button3{
     position:inherit;
-    background-image:url(proceso1.jpg);
+    background-image:url(avance3.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 600px;
+    width: 450px;
     height: 400px;
     background-size:cover;
     border-radius: 50px;
     color: black;
     font-size: 2.5em;
+}
+.button3:hover{
+    background-color:rgba(239, 239, 239, 0);
+    background-image: url(av3.png);
+    width: 450px;
+    height: 400px;  
 }
 #subtitulo{
     text-align: left;
@@ -304,4 +322,7 @@ h2{
 }
 #align{
     text-align: justify;
+}
+#alinear{
+    text-align: center;
 }
