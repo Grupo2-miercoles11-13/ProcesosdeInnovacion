@@ -326,3 +326,7 @@ h2{
 #alinear{
     text-align: center;
 }
+#tabla{
+    width: auto;
+    height: 500px;
+}
